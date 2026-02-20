@@ -9,7 +9,7 @@
 
 ## 🌌 About Me
 
-- 🌱 I'm currently learning programming from scratch  
+- 🌱 i'm currently learning programming from scratch  
 - 💻 Exploring basic **Web Development & JavaScript**  
 - 🎯 Building small projects to improve my skills  
 - 📚 Learning consistently and enjoying the process  
