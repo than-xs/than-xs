@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, i'm Than XS</h1>
-<h3 align="center">🚀 Passionate Developer | Tech Enthusiast | Lifelong Learner</h3>
+<h3 align="center">🌱 Beginner Developer | Learning Step by Step</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+building+cool+stuff;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Still+learning+to+code;Growing+little+by+little+every+day" />
 </p>
 
 ---
 
 ## 🌌 About Me
 
-- 🔭 Currently working on: **Awesome Projects**
-- 🌱 Currently learning: **Web Development & AI**
-- 💬 Ask me about: **JavaScript, Python, or anything tech**
-- ⚡ Fun fact: I turn coffee ☕ into code 💻
+- 🌱 I'm currently learning programming from scratch  
+- 💻 Exploring basic **Web Development & JavaScript**  
+- 🎯 Building small projects to improve my skills  
+- 📚 Learning consistently and enjoying the process  
+
+> 🚀 Every expert was once a beginner.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
@@ -27,19 +29,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=than-xs&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=than-xs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=than-xs&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🏆 Top Languages
+## 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=than-xs&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=than-xs&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
----
 
 ---
 
@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  💬 Open for collaboration, projects, or just tech talk 🚀
+  💬 Open for learning together & beginner collaborations 🚀
 </p>
 
 <p align="center">
